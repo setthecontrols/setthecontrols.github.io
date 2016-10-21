@@ -56,6 +56,12 @@ a:active {
     color: blue;
 }
 
+@media screen and (max-width: 868px) {
+  img {
+    max-width: 40%;
+    max-height: 40%;
+	 }
+}
   /*border: 3px dotted pink;
   background-color: purple;
   color: white;
