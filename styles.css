@@ -5,6 +5,13 @@ body.jimi-clouds {
 
 body {
 	margin-left: 10%;
+	padding: 50px;
+	background-color: #A77F45
+}
+
+#drummers-page01 {
+	font-weight: bolder;
+	color: purple;
 }
 
 table {
@@ -12,6 +19,11 @@ table {
 	border: 25px solid black;
 	font-size: 18px;
 
+}
+
+.faves {
+	list-style-type: cjk-ideographic;
+	text-decoration: overline;
 }
 
 h2, {
@@ -28,8 +40,23 @@ footer {
     width: 10px;
 }
 
+a:link {
+    color: red;
+}
 
-  border: 3px dotted pink;
+a:visited {
+    color: green;
+}
+
+a:hover {
+    color: hotpink;
+}
+
+a:active {
+    color: blue;
+}
+
+  /*border: 3px dotted pink;
   background-color: purple;
   color: white;
   text-shadow: orange 3px 3px;
@@ -39,5 +66,4 @@ footer {
   font-family: Helvetica;
   padding: 10px;
   margin: 10px;
-  width: 50%;
-  }
+  width: 50%;*/ 
