@@ -1,0 +1,75 @@
+body.jimi-clouds {
+	background-image: url("images/Clouds.png");
+	color: white;
+}
+
+body {
+	margin-left: 10%;
+	padding: 50px;
+	background-color: #A77F45
+}
+
+#drummers-page01 {
+	font-weight: bolder;
+	color: purple;
+}
+
+table {
+	Background-color: yellow;
+	border: 25px solid black;
+	font-size: 18px;
+
+}
+
+.faves {
+	list-style-type: cjk-ideographic;
+	text-decoration: overline;
+}
+
+h2, {
+	font: bold italic large serif;
+}
+
+.link-jimi {
+	font: bold italic large serif;
+}
+
+footer {
+	margin-left: auto;
+    margin-right: auto;
+    width: 10px;
+}
+
+a:link {
+    color: red;
+}
+
+a:visited {
+    color: green;
+}
+
+a:hover {
+    color: hotpink;
+}
+
+a:active {
+    color: blue;
+}
+
+@media screen and (max-width: 868px) {
+  img {
+    max-width: 40%;
+    max-height: 40%;
+	 }
+}
+  /*border: 3px dotted pink;
+  background-color: purple;
+  color: white;
+  text-shadow: orange 3px 3px;
+  font-weight: bold;
+  font-variant: small-caps;
+  font-size: 2em;
+  font-family: Helvetica;
+  padding: 10px;
+  margin: 10px;
+  width: 50%;*/ 
